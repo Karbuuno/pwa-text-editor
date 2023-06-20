@@ -6,6 +6,6 @@ Created a simple text editor app that can function both online and offline. Need
 
 npm install
 
-## Usage
+[deployed link](https://text-editor-g.herokuapp.com/)<br>
 
-npm run start:dev
+[github link](https://github.com/Karbuuno/pwa-text-editor)
